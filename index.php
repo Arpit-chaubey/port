@@ -11,7 +11,7 @@
     to showcase my skills and work, and I invite you to explore and discover 
     how I can help you take your digital presence to the next level.">
     <title>FolioMy_Arpit</title>
-    <link rel="icon" href="img/myfoliologo.png" type="image/x-icon">
+    <link rel="icon" href="myfoliologo.png" type="image/x-icon">
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -24,13 +24,13 @@
                     <nav>
                         <div class="logo">MY FOLIO</div>
                         <ul id="navitem">
-                            <li><img class="side" src="img\logout.png" alt="Sorry! error" onclick="closemenu()"></i></li>
+                            <li><img class="side" src="logout.png" alt="Sorry! error" onclick="closemenu()"></i></li>
                             <li><a href="#home">Home</a></li>
                             <li><a href="#about">About</a></li>
                             <li><a href="#services">Services</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
-                        <img class="side" src="img\menu.png" alt="Sorry! error" onclick="openmenu()">
+                        <img class="side" src="menu.png" alt="Sorry! error" onclick="openmenu()">
                     </nav>
                     <script>
                         var navite = document.getElementById('navitem');
@@ -66,8 +66,8 @@
                 <div class="container2">
                     <div class="row">
                         <div class="ab-col1">
-                            <img src="img/Untitled design.png" alt="Sorry! error"
-                            srcset="img/Untitled design.png 1000w, img/Untitled design.png 2000w, img/Untitled design.png 3000w"
+                            <img src="Untitled design.png" alt="Sorry! error"
+                            srcset="Untitled design.png 1000w, Untitled design.png 2000w, Untitled design.png 3000w"
                             >
                         </div>
                         <div class="ab-col2">
@@ -134,10 +134,10 @@
                         <div class="cont-left">
                             <p><img alt="Sorry! error" src="img\envelopes.png"></i>  arpit@helpinggeeks.com</p>
                             <div class="social">
-                                <a name="insta" href="https://www.instagram.com/oneoff_weeb/"><img src="img\instagram.png" alt="Sorry! error"></a>
-                                <a name="linkedin" href="https://www.linkedin.com/in/arpit-chaubay-616349289/"><img src="img\linkedin.png" alt="Sorry! error"></a>
-                                <a name="twitter" href="https://twitter.com/ArpitChaubay"><img src="img\twitter-x-logo-42554.png" alt="Sorry! error"></a>
-                                <a name="facebook" href="https://www.facebook.com/arpit.chaubey.319/"><img src="img\facebook.png" alt="Sorry! error"></a>
+                                <a name="insta" href="https://www.instagram.com/oneoff_weeb/"><img src="instagram.png" alt="Sorry! error"></a>
+                                <a name="linkedin" href="https://www.linkedin.com/in/arpit-chaubay-616349289/"><img src="linkedin.png" alt="Sorry! error"></a>
+                                <a name="twitter" href="https://twitter.com/ArpitChaubay"><img src="twitter-x-logo-42554.png" alt="Sorry! error"></a>
+                                <a name="facebook" href="https://www.facebook.com/arpit.chaubey.319/"><img src="facebook.png" alt="Sorry! error"></a>
                             </div>
                             <a href="ARPIT resume.pdf" download="ARPIT resume.pdf"><button class="dc">DOWNLOAD CV</button></a>
                         </div>
